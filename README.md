@@ -1,2 +1,2 @@
 # sample-repo
-更新した
+更新
